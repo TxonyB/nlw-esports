@@ -1,0 +1,32 @@
+instalar tailwinds css como POSTCSS
+npx tailwindcss init -p
+bg-cover : cobre toda a tela
+icones: phosphor-icons
+
+#SOFT SKILLS
+1. Comunicação: falar e ouvir
+2. Escrita técnica: escrever de forma clara e objetiva
+3. Senso de liderança: saber liderar e ser liderado
+4. Visão de futuro: continuar estudando
+5. Feedback: saber receber e dar feedback
+6. Proatividade: saber o que fazer antes de ser pedido, e fazer sempre mais
+7. Colaboração: ajudar todo mundo
+8  Bussiness: saber negociar e saber o que é melhor para o negócio
+9. Gestão de tempo: saber priorizar e organizar
+10. Resiliência: saber lidar com o estresse e a pressão 
+
+#HOOKS
+
+useState: armazena o estado da aplicação e renderiza novamente a aplicação
+useEffect: executa uma função toda vez que o componente é renderizado ou quando uma variável é alterada. É considerado um efeito colateral
+
+#BIBLIOTECA DE UI COMPONENTES sem estilização
+
+Radix UI npm i @radix-ui/react-dialog
+Headless UI tailwindcss npm i @headlessui/react
+
+tem que colocar nomes nos inputs para poder enviar o formulário
+
+NÃO USAR O FETCH, USAR O AXIOS
+
+React Hook Form e ZOD para validação de formulários
